@@ -1,0 +1,3 @@
+﻿  ContextoMatriz.cpp
+c:\users\unifafibe\source\repos\contextocout\contextomatriz\contextomatriz.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ContextoMatriz.vcxproj -> C:\Users\Unifafibe\source\repos\contextoCout\Debug\ContextoMatriz.exe

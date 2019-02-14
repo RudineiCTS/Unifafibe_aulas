@@ -1,0 +1,5 @@
+﻿  ContextoCout.cpp
+c:\users\unifafibe\source\repos\contextocout\contextocout\contextocout.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\unifafibe\source\repos\contextocout\contextocout\contextocout.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\unifafibe\source\repos\contextocout\contextocout\contextocout.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'float'
+  contextoCout.vcxproj -> C:\Users\Unifafibe\source\repos\contextoCout\Debug\contextoCout.exe

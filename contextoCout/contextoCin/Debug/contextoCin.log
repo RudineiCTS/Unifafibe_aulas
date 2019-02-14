@@ -1,0 +1,3 @@
+﻿  ContextoCin.cpp
+c:\users\unifafibe\source\repos\contextocout\contextocin\contextocin.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  contextoCin.vcxproj -> C:\Users\Unifafibe\source\repos\contextoCout\Debug\contextoCin.exe
