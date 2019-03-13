@@ -52,21 +52,30 @@ void main()
 //retornar resultado com o tipo long
 //exemplo fatorial : 5!=5.4.3.2.1
 //fatorial de 1 ou 0= 1
-int fat(int numero)
+unsigned long fatorial(int n)
 {
-	int total;
-	total = numero;
-
+	unsigned long resultado;
+	if ((n == 1) ||( n == 0))
+		return 1;
+	
+	//fatorial?
+	resultado = n * fatorial(n - 1);
 }
+
 
 void main()
 {
 	unsigned long fat; // "usigned" não permite valores negativos 
-	int numero;
+	
+
 	cout << "informe um valor :" << endl;
+	int numero;
+	cin >> numero;
 
-	fat = 0;// fat armazena o retorno da função fatorial 
-	cout << "o fatoria de " << numero << "=" << endl;
 
+	fat = fatorial(numero); // fat armazena o retorno da função fatorial 
+	cout << "o fatoria de " << numero << "=" << fat << endl;
+
+	system("pause>null");
 
 }
