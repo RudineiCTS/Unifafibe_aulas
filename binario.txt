@@ -1,0 +1,6 @@
+﻿1>------ Compilação iniciada: Projeto: Pilha_ponteiro, Configuração: Debug Win32 ------
+1>Pilha_ponteiro.cpp
+1>c:\users\unifafibe\documents\praticandoponteiro\pilha_ponteiro\pilha_ponteiro\pilha_ponteiro.cpp(8): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+1>LINK : fatal error LNK1168: não foi possível abrir C:\Users\Unifafibe\Documents\praticandoponteiro\Pilha_ponteiro\Debug\Pilha_ponteiro.exe para escrita
+1>Projeto de compilação pronto "Pilha_ponteiro.vcxproj" -- FALHA.
+========== Compilar: 0 com êxito, 1 com falha, 0 atualizados, 0 ignorados ==========
